@@ -101,9 +101,10 @@ class AlertNotifier:
             alert_type: Type of alert
         """
         try:
+            from datetime import datetime
             payload = {
                 "alert_type": alert_type,
-                "timestamp": repos[0].get('created_at') if repos else None,
+                "timestamp": datetime.now().isoformat(),
                 "count": len(repos),
                 "repositories": [
                     {
