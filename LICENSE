@@ -1,5 +1,3 @@
-# AshborneSDK_v1
-The AshborneSDK_v1 is a modular, production-grade AI Governance and Licensing SDK. It includes licensing enforcement, persona routing, output modulation, watermark verification, and AWS-native infrastructure hooks. Designed for integration into AI applications and creator platforms.
 AshborneSDK_v1 Commercial License
 
 Copyright © 2026 Ashborne Licensing Technologies LLC
@@ -9,7 +7,7 @@ All rights reserved.
 
 1. Grant of License
 
-Subject to the terms of this Agreement, Ashborne Licensing Technologies LLC (“Licensor”) grants you (“Licensee”) a limited, non-exclusive, non-transferable, non-sublicensable license to use AshborneSDK_v1 (“Software”) solely for:
+Subject to the terms of this Agreement, Ashborne Licensing Technologies LLC ("Licensor") grants you ("Licensee") a limited, non-exclusive, non-transferable, non-sublicensable license to use AshborneSDK_v1 ("Software") solely for:
 	•	Internal development
 	•	Evaluation
 	•	Deployment within Licensee-owned applications
@@ -51,7 +49,7 @@ You agree not to disable, bypass, or interfere with these mechanisms.
 
 5. No Warranty
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
 
 ⸻
 
