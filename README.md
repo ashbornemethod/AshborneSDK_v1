@@ -1,2 +1,86 @@
 # AshborneSDK_v1
 The AshborneSDK_v1 is a modular, production-grade AI Governance and Licensing SDK. It includes licensing enforcement, persona routing, output modulation, watermark verification, and AWS-native infrastructure hooks. Designed for integration into AI applications and creator platforms.
+AshborneSDK_v1 Commercial License
+
+Copyright © 2026 Ashborne Licensing Technologies LLC
+All rights reserved.
+
+⸻
+
+1. Grant of License
+
+Subject to the terms of this Agreement, Ashborne Licensing Technologies LLC (“Licensor”) grants you (“Licensee”) a limited, non-exclusive, non-transferable, non-sublicensable license to use AshborneSDK_v1 (“Software”) solely for:
+	•	Internal development
+	•	Evaluation
+	•	Deployment within Licensee-owned applications
+
+Commercial use is permitted only with an active paid license issued by the Licensor.
+
+⸻
+
+2. Restrictions
+
+You may not, directly or indirectly:
+	•	Sell, sublicense, rent, lease, or redistribute the Software
+	•	Offer the Software as a standalone product, SDK, API, or service
+	•	Embed the Software into competing products, platforms, or SDKs
+	•	Reverse engineer, decompile, or extract source logic except as permitted by law
+	•	Use the Software to train, fine-tune, benchmark, or derive AI models
+	•	Remove or alter licensing, watermarking, or attribution mechanisms
+
+⸻
+
+3. Intellectual Property
+
+The Software, including all source code, architecture, logic, workflows, and documentation, is the exclusive intellectual property of Ashborne Licensing Technologies LLC.
+
+This Agreement grants no ownership rights. All rights not expressly granted are reserved.
+
+⸻
+
+4. Watermarking and Enforcement
+
+The Software may include watermarking, verification, logging, or enforcement mechanisms designed to:
+	•	Validate licensed use
+	•	Detect unauthorized distribution or misuse
+	•	Protect intellectual property and authorship
+
+You agree not to disable, bypass, or interfere with these mechanisms.
+
+⸻
+
+5. No Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+⸻
+
+6. Limitation of Liability
+
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES ARISING FROM USE OR INABILITY TO USE THE SOFTWARE.
+
+⸻
+
+7. Termination
+
+This license terminates automatically upon any violation of its terms.
+Upon termination, you must immediately cease use and delete all copies of the Software.
+
+⸻
+
+8. Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, USA, without regard to conflict-of-law principles.
+
+⸻
+
+9. Contact & Licensing
+
+For commercial licenses, enterprise terms, or permissions beyond this Agreement:
+
+Email: admin@ashborneofficial.com
+
+
+⸻
+
+End of License
