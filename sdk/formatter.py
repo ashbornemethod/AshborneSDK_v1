@@ -8,7 +8,7 @@ including watermarking, sanitization, and content transformation.
 import logging
 import json
 import hashlib
-from typing import Dict, Optional, Any, List
+from typing import Dict, Optional, Any
 from datetime import datetime
 from enum import Enum
 
